@@ -1,7 +1,6 @@
 class Joule < Formula
   desc "Energy-aware optimization middleware for LLM inference"
   homepage "https://github.com/wuisabel-gif/Joule"
-  version "0.5.0"
   license "Apache-2.0"
 
   on_macos do
