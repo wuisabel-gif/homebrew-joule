@@ -5,19 +5,19 @@ class Joule < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/wuisabel-gif/Joule/releases/download/v0.6.0/joule-v0.6.0-aarch64-apple-darwin.tar.gz"
-      sha256 "ad2348e73a58817e6c63692da12027c11a10be78452a77731d176415bfb849f0"
+      url "https://github.com/wuisabel-gif/Joule/releases/download/v0.7.0/joule-v0.7.0-aarch64-apple-darwin.tar.gz"
+      sha256 "8292b41c84ff2e28577018a67722851a5aa4d51eeb5c7dc6bd9e16bb09a7cf0f"
     end
     on_intel do
-      url "https://github.com/wuisabel-gif/Joule/releases/download/v0.6.0/joule-v0.6.0-x86_64-apple-darwin.tar.gz"
-      sha256 "bf10a717b266e7d4d36a635ad59e4161d0a1766f4f556831a716e1527bea8f6b"
+      url "https://github.com/wuisabel-gif/Joule/releases/download/v0.7.0/joule-v0.7.0-x86_64-apple-darwin.tar.gz"
+      sha256 "06cedb14338f1fad90d79c5481fc5d5882a6427ac1023cf198a5cd769b8bb1e9"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/wuisabel-gif/Joule/releases/download/v0.6.0/joule-v0.6.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "09ddf0e95da6b8d4bab3517f74c0b03f4c86e4a001952581ace0d2992416039a"
+      url "https://github.com/wuisabel-gif/Joule/releases/download/v0.7.0/joule-v0.7.0-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "078e3f3e79162940165f38d49df9a5ca6587a6d21a054ef4075c7e81aaba713c"
     end
   end
 
